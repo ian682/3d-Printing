@@ -26,7 +26,7 @@ The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to
 
 
 # Main Eva Parts BOM: 
-STLs grabable from https://main.eva-3d.page/heat_insert/core/corexy/#bill-of-materials  
+STLs are grabbable from https://main.eva-3d.page/heat_insert/core/corexy/#bill-of-materials  
 EVA moddels will list needed screws and heat insert quantaty along with any other needed items. If you do not see a mount for your hotend or extruder, check on printables and thingiverse. Baring that, a lot of models get posted to the EVA section of the Rat Rig Comunity discord https://discord.gg/FekS7xaR New mounts for extruders and hotends are created most days.
 
 Universal front

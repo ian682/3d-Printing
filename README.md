@@ -6,7 +6,7 @@ mod is based on the Heat Insert EVA 3.0 project located at https://main.eva-3d.p
 
 The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to be exact, i.e. D5.0 or L5.0 inserts should work as well, just might require a bit of clean up of the plastic that's pushed out.
 
-X5SA Pro EVA 3.0 Mod BOM:
+# X5SA Pro EVA 3.0 Mod BOM:
 
 9x Heat inserts
 4x m5 x 30mm screws for OSG Rail Bearings
@@ -25,7 +25,7 @@ X5SA Pro EVA 3.0 Mod BOM:
 1x cable chain spacer
 
 
-Main Eva Parts BOM: 
+# Main Eva Parts BOM: 
 STLs grabable from https://main.eva-3d.page/heat_insert/core/corexy/#bill-of-materials
 
 Universal front
@@ -34,5 +34,7 @@ extruder/drive mount of your choice
 Probe mount of your choice
 shroud if desiered; extra weight and not needed
 
-Other Suggested Mods:
+# Other Suggested Mods:
 Proper belt tension system, suggested version https://www.thingiverse.com/thing:4605033
+
+# Instructions

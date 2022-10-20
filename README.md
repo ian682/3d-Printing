@@ -21,12 +21,13 @@ The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to
 1x dual fan back  
 1x X5SA pro EVA Top  
 1x X5SA pro EVA fan duct. Choice depends on hotend length.  
-2x duct plugs  
-1x cable chain spacer  
+2x Duct plugs  
+1x Cable chain spacer  
 
 
 # Main Eva Parts BOM: 
-STLs grabable from https://main.eva-3d.page/heat_insert/core/corexy/#bill-of-materials
+STLs grabable from https://main.eva-3d.page/heat_insert/core/corexy/#bill-of-materials  
+EVA moddels will list needed screws and heat insert quantaty along with any other needed items. If you do not see a mount for your hotend or extruder, check on printables and thingiverse. Baring that, a lot of models get posted to the EVA section of the Rat Rig Comunity discord https://discord.gg/FekS7xaR New mounts for extruders and hotends are created most days.
 
 Universal front
 Hotend mount of your choice  

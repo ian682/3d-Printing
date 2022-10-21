@@ -135,7 +135,7 @@ Install the plugs in the holes in the back ducts
   <img src="pics/duct plugs installed.jpg" width="350" title="Duct plugs">
 </p> 
 
-After that, install the extruder of your choice, cleanup the wiring, and tune the printer. I would also encurage installing a means to accuratly tune the belt tension, such as the one at the top of this page.
+After that, install the extruder of your choice, cleanup the wiring, and tune the printer. I would also encurage installing a means to accuratly tune the belt tension, such as the one at the top of this page. I suggest using Andrew Ellis' [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide).
 
 Congratulations, you are now running the EVA 3 printhead on your TronXY X5SA Pro
 <p align="center">

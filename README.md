@@ -17,10 +17,10 @@ The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to
 2x m3 nuts to mount cable chain  
 2x m3 x 6mm screws to mount X-endstop  
 1x dual fan back  
-1x X5SA pro EVA Top  
-1x X5SA pro EVA fan duct. Choice depends on hotend length.  
-2x Duct plugs  
-1x Cable chain spacer  
+1x X5SA pro EVA Top [X5SA Pro EVA Top](EVA3/tronxy eva top.stl)  
+1x X5SA pro EVA fan duct. Choice depends on hotend length. [Standard Duct](EVA3/EVA_3-0_X5SA-PRO_Standard_Duct.stl) or [Volcano Duct](EVA3/EVA_3-0_X5SA-PRO_Volcano_Duct.stl)
+2x Duct plugs [Duct plug](EVA3/Duct Hole Plug.stl) 
+1x Cable chain spacer [Cable chain Spacer](EVA3/cablechain spacer.stl) 
 
 
 # Main Eva Parts BOM: 

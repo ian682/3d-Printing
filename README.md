@@ -3,6 +3,7 @@ Mod is based on the Heat Insert EVA 3.0 project located at https://main.eva-3d.p
 
 The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to be exact, i.e. D5.0 or L5.0 inserts should work as well, just might require a bit of clean up of the plastic that's pushed out.
 
+**30-Oct-2022 Update:** Made CPAP/remote cooling back.
 **21-Oct-2022 Update:** Increased belt adjustment range on (tronxy eva top.stl) and (tronxy eva top.step) files.
 
 

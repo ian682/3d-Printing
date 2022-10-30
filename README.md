@@ -45,7 +45,7 @@ Proper belt tension system, suggested version https://www.thingiverse.com/thing:
 1st get all needed washers, screws, nuts, ptfe tubing, etc that you need.  
 2nd Print desired STL files.  
 
-Print orientation for X5SA pro Parts  
+Print orientation for X5SA pro Parts:  
 <p align="center">
   <img src="pics/Print orientation.jpg" width="350" title="Print orientation">
 </p>  

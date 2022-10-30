@@ -21,7 +21,7 @@ The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to
 2x m3 nuts to mount cable chain  
 2x M3 x 30mm screws to mount cable chain bracket to the spacer.  
 2x m3 x 6mm screws to mount X-endstop  
-1x dual fan back  
+1x back ([Dual 5015](https://github.com/ian682/3d-Printing/blob/e409669026c80c21ba648143a89b0567bc5072f4/EVA3/dual%205015%20back.stl) or [Remote Air/CPAP](https://github.com/ian682/3d-Printing/blob/e409669026c80c21ba648143a89b0567bc5072f4/EVA3/tronxy%20eva%203%20CPAP-Remote%20air%20back.stl))  
 1x X5SA pro EVA Top ([EVA3/tronxy eva top.stl](https://github.com/ian682/3d-Printing/blob/1bf0406b388527418f87d238a55095cb1d77b1a6/EVA3/tronxy%20eva%20top.stl))  
 1x X5SA pro EVA fan duct. Choice depends on hotend length. ([Standard Duct](EVA3/EVA_3-0_X5SA-PRO_Standard_Duct.stl) or [Volcano Duct](EVA3/EVA_3-0_X5SA-PRO_Volcano_Duct.stl))  
 2x Duct plugs ([EVA3/Duct Hole Plug.stl](https://github.com/ian682/3d-Printing/blob/1bf0406b388527418f87d238a55095cb1d77b1a6/EVA3/Duct%20Hole%20Plug.stl))  

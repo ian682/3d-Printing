@@ -27,8 +27,8 @@ The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to
 1x X5SA pro EVA Top ([EVA3/tronxy eva top.stl](https://github.com/ian682/3d-Printing/blob/1bf0406b388527418f87d238a55095cb1d77b1a6/EVA3/tronxy%20eva%20top.stl))  
 1x X5SA pro EVA fan duct. Choice depends on hotend length. ([Standard Duct](EVA3/EVA_3-0_X5SA-PRO_Standard_Duct.stl) or [Volcano Duct](EVA3/EVA_3-0_X5SA-PRO_Volcano_Duct.stl))  
 2x Duct plugs ([EVA3/Duct Hole Plug.stl](https://github.com/ian682/3d-Printing/blob/1bf0406b388527418f87d238a55095cb1d77b1a6/EVA3/Duct%20Hole%20Plug.stl))  
-1x Cable chain spacer ([EVA3/cablechain spacer.stl](https://github.com/ian682/3d-Printing/blob/1bf0406b388527418f87d238a55095cb1d77b1a6/EVA3/cablechain%20spacer.stl))
-
+1x Cable chain spacer ([EVA3/cablechain spacer.stl](https://github.com/ian682/3d-Printing/blob/1bf0406b388527418f87d238a55095cb1d77b1a6/EVA3/cablechain%20spacer.stl))  
+1x Optional [Cable Holder](https://github.com/ian682/3d-Printing/blob/483a43ff8f26261a6c29b435dc45ae465c516c85/EVA3/Cable%20holder.stl) 
 
 # Main Eva Parts BOM: 
 STLs are grabbable from https://main.eva-3d.page/heat_insert/core/corexy/#bill-of-materials  

@@ -1,4 +1,9 @@
 # X5SA Pro EVA 3.0 toolhead mod.
+
+<p align="center">
+  <img src="pics/CAD.png" width="350" title="CAD Layout">
+</p>
+
 Mod is based on the Heat Insert EVA 3.0 project located at https://main.eva-3d.page/
 
 The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to be exact, i.e. D5.0 or L5.0 inserts should work as well, just might require a bit of clean up of the plastic that's pushed out.

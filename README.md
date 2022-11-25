@@ -3,6 +3,7 @@ Mod is based on the Heat Insert EVA 3.0 project located at https://main.eva-3d.p
 
 The insert size EVA is modeled for is M3 x D4.6 x L4.0 but this does not have to be exact, i.e. D5.0 or L5.0 inserts should work as well, just might require a bit of clean up of the plastic that's pushed out.
 
+**24-Nov-2022 Update:** Updated Standard and Volcano duct STLs to stiffen bearing attachment and allow a higher bearing tension range. Also updated step and STL files for the top to adjust geometry for duct changes. Uploaded Step files for standard and volcano ducts, and uploaded fusion 360 ([Project Files](https://github.com/ian682/3d-Printing/blob/main/cad/EVA3/x5sa-pro_eva3_cad.f3d)) for easier CAD maintenance.  
 **15-Nov-2022 Update:** Added cable holder for cable bundles.  
 **8-Nov-2022 Update:**  Added an additional version of the CPAP back with tilted inlet.   
 **30-Oct-2022 Update:** Made CPAP/remote cooling back for 18mm hose.  
